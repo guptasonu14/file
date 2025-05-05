@@ -1,0 +1,43 @@
+Good morning!!!
+
+Self introduction,
+
+introduction of BDE'S
+
+
+Leads Details:
+
+* Per day 300 leads
+* preffered languaged
+* 3 to 5 times lead followup(Not Connected cases)
+* Priority,Importent,Followups,(15 days )
+* Closedwon (1 Month)
+* Not connected , Fresh, Unique (No time limit)
+
+KYC Details:
+
+* Email id of client
+* Pan card, Adhar card, Voter id, DL, etc.,.
+
+Two Type of Verification
+
+* Call Confirmation
+* Mail Confirmation
+* If verification not done means that payment will transfer to admin name
+
+Zoho id:
+
+* Everyone should be activated in zoho all time
+* Zoho will use for chat purpose and mail purpose (Contact)
+
+CRM ID:
+
+* CRM id will use for Leads and sales entries
+* Here bde's will get all leads (Fresh leads, followups, Not connected all)
+* Here bde can do sales entry
+
+There are Two ID's in Admin Department
+
+* Verfication - Leads, call confirmation
+* Sales - Mails details
+

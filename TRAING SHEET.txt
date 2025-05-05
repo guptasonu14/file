@@ -1,0 +1,37 @@
+LEADS:
+
+follow ups -15days
+priority - 15days
+Importent -15days
+fresh and unique data- 3-15day
+Closed one- 1 month
+
+Leads :
+ language prefrence
+Not connected leads should call 3 times in a day
+
+
+ID'S:
+
+CRM ID AND ZOHO ID
+
+
+KYC VERIFICATION
+
+Client email id
+Pan card
+Adhar card
+Voter id
+DL
+
+
+2 Type of verification
+
+Email verification 
+Call verification
+
+
+ACTIVE ZOHO
+
+Sales entry procedure 
+
